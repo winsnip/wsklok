@@ -16,7 +16,7 @@ Note: Use Reff to Get Points
 ## How to Run Multiple Accounts on VPS
 1. Clone Repository
 ```
-git clone https://github.com/WillEnyong/whklok.git
+git clone https://github.com/winsnip/wsklok.git
 cd wsklok
 ```
 2. Install Dependencies
