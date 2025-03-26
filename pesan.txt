@@ -1,0 +1,10 @@
+What is your favorite color?
+Do you like music?
+Where do you live?
+Can you drive?
+What is your favorite food?
+Are you a student?
+What is your hobby?
+Do you like to travel?
+What is your favorite sport?
+Do you like coffee?
