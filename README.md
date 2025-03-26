@@ -17,7 +17,7 @@ Note: Use Reff to Get Points
 1. Clone Repository
 ```
 git clone https://github.com/WillEnyong/whklok.git
-cd whklok
+cd wsklok
 ```
 2. Install Dependencies
 ```
